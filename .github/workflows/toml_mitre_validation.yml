@@ -1,11 +1,11 @@
 name: TOML/MITRE Validation
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
   toml-validation:
-    push: 
     runs-on: ubuntu-latest
 
     steps:
