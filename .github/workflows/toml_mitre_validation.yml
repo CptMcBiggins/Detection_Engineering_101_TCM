@@ -5,6 +5,7 @@ on:
 
 jobs:
   toml-validation:
+    push: 
     runs-on: ubuntu-latest
 
     steps:
