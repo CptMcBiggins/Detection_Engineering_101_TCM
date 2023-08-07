@@ -2,6 +2,7 @@
 
 import requests
 import tomllib
+import sys
 import os
 
 url = "https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json"
