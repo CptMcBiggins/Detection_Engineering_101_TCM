@@ -1,4 +1,4 @@
 # Detection_Engineering_101_TCM
 This is my repository for the Detection Engineering 101 course from TCM Academy.
 
-[![Metrics](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/metrics.yml/badge.svg)](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/metrics.yml)
+[![Metrics](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/metrics.yml/badge.svg)](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/metrics.yml) [![Updating Detections](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/elastic_sync.yml/badge.svg)](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/elastic_sync.yml) [![TOML/MITRE Validation](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/toml_mitre_validation.yml/badge.svg)](https://github.com/CptMcBiggins/Detection_Engineering_101_TCM/actions/workflows/toml_mitre_validation.yml)
