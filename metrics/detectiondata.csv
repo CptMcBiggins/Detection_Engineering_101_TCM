@@ -1,3 +1,3 @@
 name,date,author,risk_score,severity,tactic,technique,subtechnique
-Excessive Web Traffic,2023/08/08,['Brice Dickinson'],25,low,Discovery,T1046 - Network Service Discovery,none - none
 Web Scanner Activity - Nmap and Nikto,2023/08/08,['Brice Dickinson'],26,low,Discovery,T1046 - Network Service Discovery,none - none
+Excessive Web Traffic,2023/08/08,['Brice Dickinson'],25,low,Discovery,T1046 - Network Service Discovery,none - none
